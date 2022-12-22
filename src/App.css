@@ -1,0 +1,6 @@
+#root {
+	display: flex;
+	flex-direction: column;
+	min-width: 80vw;
+	margin: 30px auto;
+}
